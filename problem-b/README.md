@@ -67,3 +67,6 @@ Instructions for achieving this appearance are detailed below.
 5. Finally, add one more _media query_ for extra-large devices (screen width **`1200px` or greater**).
 
     - For extra-large screens, use a very high resolution background image (`splash-xl.jpg` in the `img/` folder).
+
+
+
